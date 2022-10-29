@@ -133,4 +133,9 @@ footer {
     justify-content: space-around;
     align-items: center;
 }
+.hero-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
     
