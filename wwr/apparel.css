@@ -1,0 +1,38 @@
+#background {
+    height: 725px;
+    grid-template-columns: 1/11;
+    grid-template-rows: 4/9;
+}
+body {
+    background-color: #fcfbfb; 
+}
+.hilos {
+    display: grid;
+    align-items: center;
+    height: 50%
+    
+    box-shadow: 5px 5px 10px #6f7364;
+}
+
+    
+    
+
+
+header {
+    background-color:rgba(20,30,13, .7);
+    display: grid;
+    grid-template-columns: 5px ;   
+}
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}    
+.home-title {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+    align-self: center;
+}
+body {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+}
