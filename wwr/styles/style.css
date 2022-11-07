@@ -1,8 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Rock+Salt&display=swap');
+
 #background {
     height: 725px;
     grid-template-columns: 1/11;
     grid-template-rows: 4/9;
 }
+
+
+footer { margin-top: 200px;}
+
 body {
     background-color: #fcfbfb; 
 }
