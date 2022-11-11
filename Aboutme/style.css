@@ -1,0 +1,11 @@
+section{
+    width: 200px;
+    border: 1px ;
+    display: grid;
+    justify-content: center;
+}
+body{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
